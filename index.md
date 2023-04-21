@@ -1,12 +1,19 @@
 ## notalone
 
 
-## List of Apps published by not alone
+## List of apps published by not alone
 
-Get all on Google Play Store
 
-### Proceed: Think Outside the Box - Brain teasers
 
-### 1Digit: Customizable Clock & Date Widget
+### 1Digit: Clock & Date Widget
+### Floating Calculator
+### A-Cipher
+### Beat: Interval Timer
 
-### Notes: Simple Noting App with Floating Feature
+
+
+
+
+
+
+
